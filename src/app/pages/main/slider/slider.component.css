@@ -59,3 +59,20 @@ header.masthead {
     top: -5rem;
     right: 35%;
   }
+
+  .btn-xl {
+    text-transform: uppercase;
+    padding: 1.5rem 3rem;
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+  }
+
+  .bg-primary {
+    background-color: #ee0979 !important;
+  }
+  
+  .btn-primary {
+    background-color: #ee0979;
+    border-color: #ee0979;
+  }

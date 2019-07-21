@@ -1,0 +1,39 @@
+/* catamaran-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/Catamaran/catamaran-v6-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Catamaran Regular'), local('Catamaran-Regular'),
+            url('./fonts/Catamaran/catamaran-v6-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+            url('./fonts/Catamaran/catamaran-v6-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+            url('./fonts/Catamaran/catamaran-v6-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */
+            url('./fonts/Catamaran/catamaran-v6-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+            url('./fonts/Catamaran/catamaran-v6-latin-ext_latin-regular.svg#Catamaran') format('svg'); /* Legacy iOS */
+}
+/* catamaran-800 - latin-ext_latin */
+@font-face {
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 800;
+    src: url('./fonts/Catamaran/catamaran-v6-latin-ext_latin-800.eot'); /* IE9 Compat Modes */
+    src: local('Catamaran ExtraBold'), local('Catamaran-ExtraBold'),
+            url('./fonts/Catamaran/catamaran-v6-latin-ext_latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+            url('./fonts/Catamaran/catamaran-v6-latin-ext_latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+            url('./fonts/Catamaran/catamaran-v6-latin-ext_latin-800.woff') format('woff'), /* Modern Browsers */
+            url('./fonts/Catamaran/catamaran-v6-latin-ext_latin-800.ttf') format('truetype'), /* Safari, Android, iOS */
+            url('./fonts/Catamaran/catamaran-v6-latin-ext_latin-800.svg#Catamaran') format('svg'); /* Legacy iOS */
+}
+/* lato-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/Lato/lato-v15-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Lato Regular'), local('Lato-Regular'),
+         url('./fonts/Lato/lato-v15-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./fonts/Lato/lato-v15-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/Lato/lato-v15-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/Lato/lato-v15-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/Lato/lato-v15-latin-ext_latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
+  }
