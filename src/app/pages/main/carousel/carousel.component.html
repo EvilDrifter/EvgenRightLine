@@ -1,0 +1,19 @@
+<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" data-interval="1000">
+  
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src={{imagePath}}>
+    </div>
+  </div>
+
+  <a class="carousel-control-prev" role="button" data-slide="prev" (click)="prevImage()">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+
+  <a class="carousel-control-next" role="button" data-slide="next" (click)="nextImage()">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+
+</div>

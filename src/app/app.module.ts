@@ -10,6 +10,7 @@ import { SliderComponent } from './pages/main/slider/slider.component';
 import { RightSectionComponent } from './pages/main/right-section/right-section.component';
 import { LeftSectionComponent } from './pages/main/left-section/left-section.component';
 import { SectionDataService } from './pages/main/section-data.service';
+import { CarouselComponent } from './pages/main/carousel/carousel.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { SectionDataService } from './pages/main/section-data.service';
     FooterComponent,
     SliderComponent,
     RightSectionComponent,
-    LeftSectionComponent
+    LeftSectionComponent,
+    CarouselComponent
   ],
   imports: [
     BrowserModule,
